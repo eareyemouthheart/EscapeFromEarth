@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_BAP2E/Scene/Logo Scene.unity
+    guid: a458e237e9dbe474dbb1c5c1c3777bdd
+  - enabled: 1
+    path: Assets/_BAP2E/Scene/MainMenu.unity
+    guid: 5f8ecda8fcd444fcabc6b0d4603d47fe
+  - enabled: 1
+    path: Assets/_BAP2E/Scene/Level/Level ALL IN ONE.unity
+    guid: 6d541541cf7dd4db9b9aa42022d2f6e4
+  - enabled: 1
+    path: Assets/_BAP2E/Scene/Level/Level 1.unity
+    guid: 7941420407b7f40dcad4ae76525c13a7
+  - enabled: 1
+    path: Assets/_BAP2E/Scene/Level/Level 2.unity
+    guid: 3298ac7ab3a2b42318ae08b322bfe9a9
+  - enabled: 1
+    path: Assets/_BAP2E/Scene/Level/Level 3.unity
+    guid: d7e656efa534b4c2aa2205a23bf2dd9b
+  - enabled: 1
+    path: Assets/_BAP2E/Scene/Level/Level 4.unity
+    guid: b49cafd8092ac49a497a48d409955a70
+  - enabled: 1
+    path: Assets/_BAP2E/Scene/Level/Level 5.unity
+    guid: cb030e3f3171e484da86395314b83e47
+  - enabled: 1
+    path: Assets/_BAP2E/Scene/Level/Level 6.unity
+    guid: 3b566c380610e44398fcad4753b54024
+  - enabled: 0
+    path: Assets/_BAP2E/Scene/Level/Level 7.unity
+    guid: b58eaeac956e544ba8b2abe861c1e5ae
+  - enabled: 0
+    path: Assets/_BAP2E/Scene/Level/Level 8.unity
+    guid: 5b1001cadce9740f0bad8ab2e64b1d6e
+  - enabled: 0
+    path: Assets/_BAP2E/Scene/Level/Level 9.unity
+    guid: d8085fd174e924c7492e63504193414c
+  - enabled: 0
+    path: Assets/_BAP2E/Scene/Level/Level 10.unity
+    guid: ad56537beae004d4f80c054a9e763d3b
+  - enabled: 0
+    path: Assets/_BAP2E/Scene/Level/Level 11.unity
+    guid: bb800223ff1724631b265a1a1148c976
+  - enabled: 0
+    path: Assets/_BAP2E/Scene/Level/Level 12.unity
+    guid: f521d48a8d96748d0a0e52a5508bda73
+  - enabled: 0
+    path: Assets/_BAP2E/Scene/Level/Level 13.unity
+    guid: a54d51a230bcd4e91b21806fceb6db07
+  - enabled: 0
+    path: Assets/_BAP2E/Scene/Level/Level 14.unity
+    guid: e77f0e8c9599a4b7c9cc0c59fad3db1c
+  - enabled: 0
+    path: Assets/_BAP2E/Scene/Level/Level 15.unity
+    guid: 74dbe9e5d56d440c8a944ab3cb592e60
+  - enabled: 0
+    path: Assets/_BAP2E/Scene/Level/Level 16.unity
+    guid: 5b84fec6d3f29429e93c8f1bcd813f82
+  - enabled: 0
+    path: Assets/_BAP2E/Scene/Level/Level 17.unity
+    guid: f180b5764f495440b96d0d68d6881878
+  - enabled: 0
+    path: Assets/_BAP2E/Scene/Level/Level 18.unity
+    guid: 2e462c6b3594b4533bdbc510a166331d
+  m_configObjects: {}
